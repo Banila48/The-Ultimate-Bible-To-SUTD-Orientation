@@ -1,4 +1,4 @@
-<By Jesslyn Peh, Jun 20, 2019>
+<By Jeslyn Peh, Jun 20, 2019>
 
 **This document is separated into the following parts in order:**
 1. Plot + Theme
