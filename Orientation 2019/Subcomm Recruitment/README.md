@@ -26,4 +26,4 @@ As to how strict the interview process should be, it is up to you to set the ton
 
 
 #### Post-Interview
-This one is pretty straightforward. Send out notification message (for those who got rejected) and can just invite the rest to respective committee directly.
+This one is pretty straightforward. Send out notification message (for those who got rejected) and can just invite the rest to respective committee tele group directly.
