@@ -47,7 +47,13 @@ The welfare director will be assigning these, but these roles need to be account
 
 ### Attendance Taking and Welcome
 
-Role: mark attendance for the freshies when they arrive. 
+Role: mark attendance for the freshies when they arrive. There will be 5 tables stationed in front of the gathering point (outside LT1), 4 tables have cloths corresponding to house colours. Students are supposed to go to the booth corresponding to their house. Those who don't know their house will go to the last table. 
+
+The welfare director will have to split student particulars into the respective houses (omitting sensitive info) and put it on a Google Sheet, sharing with only the house heads. The information should be deleted after orientation. 
+
+At the last table, will seat the welfare director and another person (preferably someone trustworthy because of PDPA reasons). They will be allocating OGs to the people without houses on the spot (and so they need laptops). After allocating an OG, you have to add the student to the Google Sheet shared with the House Heads to mark the attendance. OSA will brief more about PDPA and student particulars, so you can ask them more questions about what is appropriate and what is not. 
+
+No. of volunteers: 2 house heads per house (one table each), welfare director and another on the last table
 
 ## Seating Arrangement
 
