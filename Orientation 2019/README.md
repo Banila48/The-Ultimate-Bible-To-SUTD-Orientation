@@ -5,7 +5,7 @@ Please work your ass off and give them the best orientation they ever have :)
 
 At the end of the day, you will not get anything in return but a fruitful and meaningful experience~~ 
 
-(It is indeed precious and you wont get it so easily from any other things)
+(It is indeed a precious one and you wont get it so easily from any other things)
                                                                                                                                  
                                                                                                                                  
                                                                                                                                  
