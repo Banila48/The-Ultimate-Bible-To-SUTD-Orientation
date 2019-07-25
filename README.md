@@ -4,4 +4,4 @@ The purpose of this Repo is to ensure that SUTD Orientation can only improve eac
 
 
 *Disclaimer* :
-Any documents put here must be treated merely as reference and should not be taken as the absolute correct way of doing things. The most important documents in these folders would be the README.md(s) which consist of the train of thoughts of the directors in their decision-making process. 
+Any of the documents here must be treated merely as reference and should not be taken as the absolute correct way of doing things. The most important documents in these folders would be the README.md(s) which consist of the train of thoughts of the directors in their decision-making process. 
